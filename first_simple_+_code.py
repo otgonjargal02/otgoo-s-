@@ -1,5 +1,7 @@
 a = 5
-b = int(input("pls,write a number:"))
+#change float
+#b = int(input("pls,write a number:"))
+b = float(input("pls,write a number:"))
 c = a+b
 print(c)
-
+#deleted empty lines

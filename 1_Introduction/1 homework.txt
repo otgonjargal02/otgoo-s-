@@ -1,0 +1,9 @@
+task 1. repo үүсгэж clone хийн хэд хэдэн commit push pull хийсэн
+1.болно
+2.cmd prompt-s дуудахад тус программыг олж нээж чадахгүй
+3.зарим тохиолдолд код доторх бичиглэлтэй холилдох байх
+4.git baiguullagiin tuvshnii olon niited il tod bish
+github ni olon niited neelttei tsugluulga
+5.commit нь local дээрх өөрчлөлтөө хадгална push нь local дээр Commit хийж хадгалсанаа cloud руу илгээнэ.pull нь web дээрх өөрчлөлтийг local руугаа илгээнэ.
+6.болно 
+7.? 

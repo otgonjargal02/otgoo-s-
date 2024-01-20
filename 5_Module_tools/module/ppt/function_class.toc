@@ -1,0 +1,4 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Function}{3}{0}{1}
+\beamer@sectionintoc {2}{Module}{7}{0}{2}
+\beamer@sectionintoc {3}{Homework}{10}{0}{3}

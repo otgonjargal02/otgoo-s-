@@ -1,0 +1,28 @@
+A. Complete the following data cleaning tasks on IFS data
+
+1. Select only some countries and indicators, keep only necessary data
+2. Put the indicators in columns and date in rows /note: check for potential duplicates/
+3. Rename selected indicators
+4. Calculate M2 in USD by dividing M2 in local currency by LCY/USD rate
+5. Fix outliers and nan (in interest rates)
+6. Separate the data by frequency and save
+7. Calculate average interest rate over several periods 
+8. Plot a figure on a variable
+
+
+B. Complete the following task on hypothetical employee data
+
+You have loan data of 2 months, you have employee data of 1 month
+You have list of employees who should be excluded from loan data
+You have data on bank capital monthly
+1. Calculate outstanding employee loan amount for each month - remove extra
+4573102082
+3010183726
+8486314520
+1805775803
+2533347822
+3982958478
+
+2. Calculate ratio of employee loan to bank capital for each month
+3. Calculate the movement of loan status - For employee and total loans
+4. Save into excel file /amounts and ratios/

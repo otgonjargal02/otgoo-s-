@@ -1,0 +1,7 @@
+Exchange Rates, Domestic Currency per U.S. Dollar, End of Period, Rate
+Exchange Rates, Domestic Currency per U.S. Dollar, Period Average, Rate
+Financial, Interest Rates, Lending Rate, Percent per annum
+Financial, Interest Rates, Deposit, Percent per annum
+Monetary, Broad Money, US Dollars
+Monetary, Broad Money, Domestic Currency
+Monetary, Base Money, US Dollars
